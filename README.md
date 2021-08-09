@@ -1,6 +1,6 @@
 # Sri Lankan Airlines Clone
 
-## This is a clone of Sri Lankan Airlines Website
+## This is a clone of Sri Lankan Airlines website
 
 ![Actual Website Image](Assets/Images/Actual-Website-Image.png)
 
