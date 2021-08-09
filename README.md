@@ -1,6 +1,11 @@
-This is a clone of Sri Lankan Airlines Website
+# Sri Lankan Airlines Clone
 
-Collaborators
-*Joel
-*Thushan
-\*Pamudith
+## This is a clone of Sri Lankan Airlines Website
+
+![Actual Website Image](Assets/Images/Actual Website Image.png)
+
+_**Collaborators**_
+
+- Joel
+- Thushan
+- Pamudith
